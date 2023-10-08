@@ -1,0 +1,7 @@
+.carousel .carousel-item{
+    display:  flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+}
